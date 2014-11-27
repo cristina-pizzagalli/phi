@@ -144,6 +144,12 @@
       //inertia - speed to move relative to vertical scroll. Example: 0.1 is one tenth the speed of scrolling, 2 is twice the speed of scrolling
       //outerHeight (true/false) - Whether or not jQuery should use it's outerHeight option to determine when a section is in the viewport
       $("label").inFieldLabels();
+      $('#feature').parallax("50%", 0.2);
+      $('#statement').parallax("50%", 0.2);
+      $('#info-callouts').parallax("50%", 0.2);
+      $('#call-to-action').parallax("50%", 0.2);
+      $('#team').parallax("50%", 0.2);
+      $('#contact').parallax("50%", 0.2);
       $("#feature .link").click(function() {
           $('html, body').animate({
               scrollTop: $("#feature .link").offset().top
