@@ -1,0 +1,370 @@
+@media (max-width: 1200px) {
+  #team .bio {
+    margin: 100px 0px 0px 10%;
+  }
+
+  #team .team-photo {
+    background: url(../images/team-photo.png) no-repeat 80% bottom;
+  }
+}
+@media (max-width: 940px) {
+  /* Feature Area
+  ------------------------------------------------------ */
+  #feature {
+    padding: 280px 0px 240px 0px;
+  }
+
+  #feature h1 {
+    font-size: 52px;
+  }
+  /* Statement Area
+  ------------------------------------------------------ */
+  #statement {
+    padding: 50px 0px;
+  }
+
+  #statement h2 {
+    font-size: 35px;
+  }
+
+  #statement h2 strong {
+    font-size: 43px;
+  }
+
+  #statement h3 {
+    font-size: 15px;
+  }
+
+  #statement h4 {
+    font-size: 50px;
+  }
+  /* Info Callouts Area
+  ------------------------------------------------------ */
+  #info-callouts {
+    padding: 140px 0;
+  }
+
+  #info-callouts ul li h2 {
+    font-size: 20px;
+  }
+
+  #info-callouts ul li p {
+    font-size: 15px;
+  }
+  /* Call to Action Area
+  ------------------------------------------------------ */
+  #call-to-action {
+    padding: 155px 0;
+  }
+
+  #call-to-action h2 {
+    font-size: 35px;
+  }
+
+  #call-to-action h2 strong {
+    font-size: 50px;
+  }
+
+  #call-to-action p {
+    font-size: 22px;
+  }
+  /* Team Area
+  ------------------------------------------------------ */
+  #team .bio {
+    margin: 100px 0px 0px 5%;
+  }
+  #team h2 {
+    font-size: 50px;
+  }
+
+  #team p {
+    font-size: 22px;
+  }
+
+  #team .team-photo {
+    background: url(../images/team-photo.png) no-repeat 95% bottom;
+    background-size: 50%;
+  }
+  /* Contact Area
+  ------------------------------------------------------ */
+  #contact {
+    padding: 60px 0px 120px;
+  }
+
+  #contact h2 {
+    font-size: 50px;
+  }
+
+  #contact ul li h3 {
+    font-size: 20px;
+  }
+
+  #contact ul li p {
+    font-size: 20px;
+  }
+
+  #contact p {
+    font-size: 20px;
+  }
+}
+@media (max-width: 700px) {
+  /* Feature Area
+  ------------------------------------------------------ */
+  #feature {
+    padding: 200px 0px 160px 0px;
+  }
+
+  #feature h1 {
+    font-size: 42px;
+  }
+  /* Statement Area
+  ------------------------------------------------------ */
+  #statement {
+    padding: 50px 0px;
+  }
+
+  #statement h2 {
+    font-size: 30px;
+  }
+
+  #statement h2 strong {
+    font-size: 38px;
+  }
+
+  #statement h3 {
+    font-size: 14px;
+  }
+
+  #statement h4 {
+    font-size: 45px;
+  }
+  /* Info Callouts Area
+  ------------------------------------------------------ */
+  #info-callouts {
+    padding: 100px 0;
+  }
+
+  #info-callouts ul li {
+    display: block;
+    width: 100%;
+    float: none;
+    padding: 0px 0px 40px 0px;
+  }
+
+  #info-callouts ul li h2 {
+    font-size: 20px;
+    padding: 0px;
+  }
+
+  #info-callouts ul li p {
+    font-size: 14px;
+    padding: 0px;
+  }
+  /* Call to Action Area
+  ------------------------------------------------------ */
+  #call-to-action {
+    padding: 130px 0;
+  }
+
+  #call-to-action h2 {
+    font-size: 30px;
+  }
+
+  #call-to-action h2 strong {
+    font-size: 45px;
+  }
+
+  #call-to-action p {
+    font-size: 20px;
+  }
+  /* Team Area
+  ------------------------------------------------------ */
+  #team {
+    height: 400px;
+    margin: 0 auto;
+    padding: 40px 0 0 0;
+    position: relative;
+    display: block;
+    overflow: hidden;
+  }
+
+  #team .bio {
+    margin: 70px 0px 0px 5%;
+  }
+  #team h2 {
+    font-size: 45px;
+  }
+
+  #team p {
+    font-size: 20px;
+  }
+
+  #team .team-photo {
+    background: url(../images/team-photo.png) no-repeat 95% bottom;
+    background-size: 50%;
+  }
+  /* Contact Area
+  ------------------------------------------------------ */
+  #contact {
+    padding: 60px 0px 120px;
+  }
+
+  #contact h2 {
+    font-size: 45px;
+  }
+
+  #contact ul li h3 {
+    font-size: 20px;
+  }
+
+  #contact ul li p {
+    font-size: 20px;
+  }
+
+  #contact p {
+    width: 80%;
+    font-size: 20px;
+  }
+}
+@media (max-width: 600px) {
+  /* Header
+  ------------------------------------------------------ */
+  header .lets-talk {
+    display: none;
+  }
+  /* Feature Area
+  ------------------------------------------------------ */
+  #feature {
+    padding: 160px 0px 120px 0px;
+  }
+
+  #feature h1 {
+    font-size: 34px;
+  }
+  /* Statement Area
+  ------------------------------------------------------ */
+  #statement {
+    padding: 60px 0px;
+    line-height: 1;
+  }
+
+  #statement h2 {
+    font-size: 20px;
+  }
+
+  #statement h2 strong {
+    font-size: 26px;
+    padding: 0px 0px 10px 0px;
+  }
+
+  #statement h3 {
+    font-size: 14px;
+  }
+
+  #statement h4 {
+    font-size: 25px;
+  }
+  /* Info Callouts Area
+  ------------------------------------------------------ */
+  #info-callouts {
+    padding: 60px 0;
+  }
+
+  #info-callouts ul li {
+    display: block;
+    width: 100%;
+    float: none;
+    padding: 0px 0px 40px 0px;
+  }
+
+  #info-callouts ul li h2 {
+    font-size: 18px;
+  }
+
+  #info-callouts ul li p {
+    font-size: 13px;
+  }
+  /* Call to Action Area
+  ------------------------------------------------------ */
+  #call-to-action {
+    padding: 60px 0;
+  }
+
+  #call-to-action h2 {
+    font-size: 18px;
+  }
+
+  #call-to-action h2 strong {
+    font-size: 28px;
+  }
+
+  #call-to-action p {
+    font-size: 16px;
+  }
+  /* Team Area
+  ------------------------------------------------------ */
+  #team {
+    height: 200px;
+    margin: 0 auto;
+    padding: 40px 0 0 0;
+    position: relative;
+    display: block;
+    overflow: hidden;
+  }
+
+  #team .bio {
+    margin: 0px 0px 0px 5%;
+  }
+  #team h2 {
+    font-size: 28px;
+    padding: 0px 0px 5px 0px;
+  }
+
+  #team p {
+    font-size: 18px;
+    margin-top: 0px;
+  }
+
+ #team p.one:before {
+    display: none;
+  }
+
+  #team p.one span {
+    background: none;
+  }
+
+  #team .team-photo {
+    background: url(../images/team-photo.png) no-repeat 95% bottom;
+    background-size: 200px;
+  }
+
+  /* Contact Area
+  ------------------------------------------------------ */
+  #contact {
+    padding: 40px 0px 100px;
+  }
+
+  #contact h2 {
+    font-size: 45px;
+  }
+  #contact ul li {
+    display: block;
+    float: none;
+    width: 100%;
+    padding: 10px;
+  }
+
+  #contact ul li h3 {
+    font-size: 14px;
+    margin: 0px;
+  }
+
+  #contact ul li p {
+    font-size: 14px;
+  }
+
+  #contact p {
+    width: 100%;
+    font-size: 14px;
+  }
+}
