@@ -519,8 +519,7 @@ header .lets-talk:hover {
 
 #contact ul li {
   display: block;
-  width: 33.333%;
-  float: left;
+  width: 100%;
   padding: 40px 0px;
   text-align: center;
 }
